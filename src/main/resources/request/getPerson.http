@@ -1,0 +1,17 @@
+GET http://localhost:8080/all
+
+###
+
+GET http://localhost:8080/getbyid/2
+
+###
+
+GET http://localhost:8080/count/24
+
+###
+
+GET http://localhost:8080/tomek
+
+###
+
+GET http://localhost:8080/select/34/tomek
